@@ -16,6 +16,6 @@ test:
 
 production:
   <<: *default
-  database: myapp_production
+  database: myapp
   username: deploy2
   password: 123456123aKa
